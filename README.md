@@ -92,4 +92,6 @@ After taking these two statistics over the others, we can look at the accurary s
 2. SMOTEENN Sampling (68%)
 3. Balanced Random Forest Classifying (65%)
 
-After factoring in these three main statistics, the model that I would recommend to use for predicting high risk loans is the Easy Ensemble Classifying model.
+While some of the above machine learning models outperform others, I recommend more research be done to identify machine learning models that yield better prediction success.
+
+However, in a scenario where limited to the options above, I'd recommend the Easy Ensemble model. Each of its scores reveal it most likely to accurately identify and predict high risk loan applications.
